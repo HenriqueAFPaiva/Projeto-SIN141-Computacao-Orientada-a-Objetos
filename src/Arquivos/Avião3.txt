@@ -1,0 +1,15 @@
+Avião: A318
+
+Código do voo: 5959
+
+Destino: São Paulo
+
+Hora de saída: 
+9:30:0
+
+Hora estimada de chegada: 
+11:25:0
+
+Quantidade de passageiros / Quantidade máxima de passageiros: 0/109
+
+Códigos das malas presentes no avião: 

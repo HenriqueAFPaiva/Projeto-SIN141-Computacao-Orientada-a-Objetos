@@ -1,0 +1,15 @@
+Avião: A300-600
+
+Código do voo: 5964
+
+Destino: Florida
+
+Hora de saída: 
+8:0:0
+
+Hora estimada de chegada: 
+20:12:0
+
+Quantidade de passageiros / Quantidade máxima de passageiros: 0/266
+
+Códigos das malas presentes no avião: 
